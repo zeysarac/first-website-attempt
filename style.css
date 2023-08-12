@@ -4,10 +4,18 @@
   box-sizing: border-box;
 }
 
+.body {
+  height: 700;
+}
+.start-over {
+  text-align: center;
+  margin-top: 10px;
+}
+
 .homepage {
   color: #31d2f7;
   margin-top: 80px;
-  margin-bottom: 100px;
+  margin-bottom: 80px;
   text-align: center;
   text-decoration: overline;
   font-size: 55px;
@@ -31,4 +39,13 @@
   font-size: 27px;
   background-color: #9cd2de;
   transition: all 1s;
+}
+
+.div2 {
+  width: 80%;
+  margin: 400px 70px 400px;
+}
+
+.parag2 {
+  font-size: 23px;
 }
