@@ -4,9 +4,6 @@
   box-sizing: border-box;
 }
 
-.body {
-  height: 700;
-}
 .start-over {
   text-align: center;
   margin-top: 10px;
@@ -41,11 +38,25 @@
   transition: all 1s;
 }
 
+.container {
+  width: 980px;
+  margin: auto;
+}
 .div2 {
-  width: 80%;
-  margin: 400px 70px 400px;
+  margin: 80px;
+  font-size: 23px;
 }
 
 .parag2 {
   font-size: 23px;
+}
+
+.links {
+  text-decoration: underline solid #00a99d;
+  color: #00a99d;
+}
+
+.links:hover {
+  background-color: rgb(226, 238, 248);
+  text-decoration: none;
 }
