@@ -50,12 +50,59 @@
   font-size: 23px;
 }
 
-.links {
+.go-links {
   text-decoration: underline solid #00a99d;
   color: #00a99d;
 }
 
-.links:hover {
+.go-links:hover {
   background-color: rgb(226, 238, 248);
   text-decoration: none;
+}
+
+.links {
+  color: rgb(182, 93, 111);
+  text-decoration: none;
+}
+
+.links:hover {
+  font-weight: bolder;
+}
+
+.container22 {
+  width: 980px;
+  margin: auto;
+}
+.parag3 {
+  font-size: 23px;
+  margin: 80px;
+}
+
+.warm-up {
+  font-size: smaller;
+  color: rgb(53, 40, 40);
+  background-color: #c6dcdb;
+  margin-bottom: 40px;
+  margin-top: 15px;
+  display: inline-block;
+}
+
+.madfit {
+  margin-top: 15px;
+}
+
+.dance {
+  margin: 40px 0 30px 0;
+}
+
+.just-dance {
+  margin: 40px 0 30px 0;
+}
+
+.play-a-song {
+  margin: 40px 0 15px 0;
+}
+
+.jump {
+  margin-top: 45px;
 }
