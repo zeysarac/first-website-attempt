@@ -106,3 +106,11 @@
 .jump {
   margin-top: 45px;
 }
+
+.cake {
+  color: rgb(205, 92, 92);
+  text-align: center;
+  margin-top: 400px;
+  text-decoration: overline;
+  text-decoration-color: rgb(177, 83, 83);
+}
